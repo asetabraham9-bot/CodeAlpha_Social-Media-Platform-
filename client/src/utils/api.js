@@ -1,4 +1,4 @@
-const API_BASE = 'https://mini-social-media-api-kki5.onrender.com/api';
+const API_BASE = '/api';
 
 const getToken = () => localStorage.getItem('token');
 
